@@ -35,6 +35,7 @@ Previsão de Conclusão: 2025
 - Análise de Requisitos Empresariais
 - Metodologias Ágeis: Kanban, Scrum
 - Arquitetura de Redes
+- Roteirização e Edição de Vídeo
 
 ## Cursos
 - **Python Programmer**
@@ -55,7 +56,9 @@ Previsão de Conclusão: 2025
 
 ## Competências Pessoais
 - Boa comunicação
+- Apta ao que dizem;
 - Proatividade
+- Disponibilidade
+- Organizada
 - Trabalho em grupo
-- Edição de vídeo
 
