@@ -59,8 +59,8 @@ Previsão de Conclusão: 2025
 ## Competências Pessoais
 - Boa comunicação;
 - Apta ao que dizem;
-- Autodidata
-- Organização;
+- Autodidata;
+- Organizada;
 - Proatividade;
 - Disponibilidade;
 - Trabalho em grupo;
