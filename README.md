@@ -57,10 +57,10 @@ Previsão de Conclusão: 2025
 - **Prêmio Nacional das Alianças Finalistas:** Alcançamos a fase final das competições nacionais, destacando-nos pela colaboração em equipe e desempenho competitivo.
 - **Prêmio Mundial de Segundo Lugar no Desempenho do Robô:** Obtivemos a segunda maior pontuação mundial, demonstrando excelência em desempenho e programação.
 ## Olimpíadas de Conhecimento
-- **Medalha de Ouro em Redação Proerd.**
-- **Medalha de Ouro na Olimpíada Nacional de Eficiência Energética.**
-- **Medalha de Bronze na Canguru.**
-- **Segunda Fase na Olimpíada Brasileira de Biologia.**
+- **Medalha de Ouro** em Redação Proerd.
+- **Medalha de Ouro** na Olimpíada Nacional de Eficiência Energética.
+- **Medalha de Bronze** na Canguru.
+- **Segunda Fase** na Olimpíada Brasileira de Biologia.
 
 ## Competências Pessoais
 - Boa comunicação;
