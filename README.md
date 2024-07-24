@@ -43,7 +43,8 @@ Previsão de Conclusão: 2025
 
 ## Idiomas
 - Português: Nativo
-- Inglês: Intermediário
+- Inglês: Intermediário Alto
+- Francês: Básico
 
 ## Atividades Extracurriculares
 **Equipe de Robótica da First Lego League**  
