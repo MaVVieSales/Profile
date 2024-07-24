@@ -16,11 +16,11 @@ Previsão de Conclusão: 2025
 
 ## Experiência Profissional
 - Desenvolvimento de funcionalidades em sites.
-- Colaboração com equipes ágeis para entrega contínua de software.
+- Adesão de Metodologias ágeis no trabalho em equipe para entrega contínua de software.
 - Implementação de melhorias de performance e correção de bugs.
 
 **Sites em HTML e JavaScript**
-- Descrição: Criação de diversos sites utilizando HTML para a estrutura e JavaScript para a funcionalidade.
+- Descrição: Criação de diversos sites utilizando o Visual Studio Code.
 - Tecnologias Utilizadas: HTML, JavaScript.
 
 **Organização de Infraestrutura de Redes**
@@ -32,24 +32,25 @@ Previsão de Conclusão: 2025
 - Ferramentas de Versionamento: Git
 - Design e Ferramentas: Canva Pro, Pacote Office 365 (PowerPoint, Excel...)
 - Sistemas Operacionais: Instalação e Configuração de Windows e Linux
+- Análise de Requisitos Empresariais
 - Metodologias Ágeis: Kanban, Scrum
+- Arquitetura de Redes
 
 ## Cursos
-- **Certificação Python Programmer**
-- **Certificações de Inglês**
-- CNA
-- Legacy
+- **Python Programmer**
+- **Inglês CNA**
+- **Inglês Legacy**
 
 ## Idiomas
 - Português: Nativo
 - Inglês: Intermediário
 
 ## Atividades Extracurriculares
-**Equipe de Robótica**  
+**Equipe de Robótica da First Lego League**  
 *Período:* Dois anos  
 - **Prêmio Estadual de Design do Robô:** Reconhecimento pelo design inovador e eficiente do robô.
-- **Prêmio Nacional das Alianças Finalistas:** Alcançamos a fase final das competições nacionais, destacando-nos pela colaboração e desempenho.
-- **Prêmio Mundial de Segundo Lugar no Desempenho do Robô:** Obtivemos a segunda maior pontuação mundial na FLL (First Lego League), demonstrando excelência em desempenho e programação.
+- **Prêmio Nacional das Alianças Finalistas:** Alcançamos a fase final das competições nacionais, destacando-nos pela colaboração em equipe e desempenho competitivo.
+- **Prêmio Mundial de Segundo Lugar no Desempenho do Robô:** Obtivemos a segunda maior pontuação mundial, demonstrando excelência em desempenho e programação.
 
 ## Competências Pessoais
 - Boa comunicação
