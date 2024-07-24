@@ -19,11 +19,11 @@ Previsão de Conclusão: 2025
 - Adesão de Metodologias Ágeis ao trabalhar em grupo para a entrega contínua de resultados.
 - Implementação de melhorias de performance e correção de bugs.
 
-**Sites em HTML e JavaScript**
+**💻Sites em HTML e JavaScript**
 - Descrição: Criação de diversos sites utilizando a aplicação Visual Studio Code.
 - Tecnologias Utilizadas: HTML, JavaScript.
 
-**Organização de Infraestrutura de Redes**
+**🔌Organização de Infraestrutura de Redes**
 - Descrição: Planejamento e execução do cabeamento de uma sala de aula, garantindo a organização e eficiência da infraestrutura de rede.
 
 ## Habilidades Técnicas
