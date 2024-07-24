@@ -7,10 +7,10 @@
 Desenvolver soluções inovadoras e eficientes na área de Análise e Desenvolvimento de Sistemas, contribuindo para o crescimento da empresa e aprimorando minhas habilidades técnicas e profissionais.
 
 ## Formação Acadêmica
-### **Cursando Ensino Médio na Escola Sesi "Darcy Zacharias"**
+- ### **Cursando Ensino Médio na Escola Sesi "Darcy Zacharias"**
 Ano de Início: 2023  
 Previsão de Conclusão: 2025
-### **Cursando Ensino Técnico em Análise e Desenvolvimento de Sistemas no Senai**
+- ### **Cursando Ensino Técnico em Análise e Desenvolvimento de Sistemas no Senai**
 Ano de Início: 2024  
 Previsão de Conclusão: 2025
 
