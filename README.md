@@ -42,6 +42,7 @@ Previsão de Conclusão: 2025
 - **Python Programmer**
 - **Inglês CNA**
 - **Inglês Legacy**
+- **Competências Transversais - LGPD**
 
 ## Idiomas
 - Português: Nativo
@@ -55,6 +56,11 @@ Previsão de Conclusão: 2025
 - **Prêmio Estadual de Design do Robô:** Reconhecimento pelo design inovador e eficiente do robô.
 - **Prêmio Nacional das Alianças Finalistas:** Alcançamos a fase final das competições nacionais, destacando-nos pela colaboração em equipe e desempenho competitivo.
 - **Prêmio Mundial de Segundo Lugar no Desempenho do Robô:** Obtivemos a segunda maior pontuação mundial, demonstrando excelência em desempenho e programação.
+**Olimpíadas de Conhecimento**
+- **Medalha de Ouro em Redação Proerd.**
+- **Medalha de Ouro na Olimpíada Nacional de Eficiência Energética.**
+- **Medalha de Bronze na Canguru.**
+- **Segunda Fase na Olimpíada Brasileira de Biologia.**
 
 ## Competências Pessoais
 - Boa comunicação;
