@@ -28,7 +28,7 @@ Previsão de Conclusão: 2025
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Python, JavaScript;
-- Desenvolvimento Web: HTML, JavaScript;
+- Desenvolvimento Web: HTML, CSS, JavaScript;
 - Ferramentas de Versionamento: Git;
 - Design e Ferramentas: Canva Pro, Pacote Office 365 (PowerPoint, Excel...);
 - Sistemas Operacionais: Instalação e Configuração de Windows e Linux;
