@@ -30,7 +30,7 @@ Previsão de Conclusão: 2025
 - Linguagens de Programação: Python, JavaScript;
 - Desenvolvimento Web: HTML, CSS, JavaScript;
 - Ferramentas de Versionamento: Git;
-- Design e Ferramentas: Canva Pro, Pacote Office 365 (PowerPoint, Excel...);
+- Design e Ferramentas: Canva Pro, Pacote Office 365 (PowerPoint, Word...);
 - Sistemas Operacionais: Instalação e Configuração de Windows e Linux;
 - Análise de Requisitos Empresariais;
 - Metodologias Ágeis: Kanban, Scrum, Microlearning;
