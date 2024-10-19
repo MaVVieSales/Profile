@@ -43,6 +43,8 @@ Previsão de Conclusão: 2025
 - **Inglês CNA**
 - **Inglês Legacy**
 - **Competências Transversais - LGPD**
+- **Economia Circular**
+- **Desvendando o 5g**
 
 ## Idiomas
 - Português: Nativo
