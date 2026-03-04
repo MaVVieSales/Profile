@@ -79,11 +79,16 @@ SENAI "Santo Paschoal Crepaldi" | 2024 - 2025
 SESI "Darcy Zacharias" | 2023 - 2025
 
 ### Certificações
-- C# Programmer
 - Python Programmer
 - Competências Transversais - LGPD
 - Economia Circular
 - Desvendando o 5G
+- Programação em Inteligência Artificial Generativa 
+- Data Analytics e Tomada de Decisão 
+- Fluência – Fundamentos da Inteligência Artificial 
+- Microsoft Power BI 
+- Banco de Dados para Data Science 
+- Competência Transversal – Segurança no Trabalho
 
 ---
 
