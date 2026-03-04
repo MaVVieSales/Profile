@@ -11,7 +11,7 @@
 
 Técnica em Desenvolvimento de Sistemas formada pelo SENAI, com experiência prática em desenvolvimento full-stack, automação com IoT e liderança de projetos técnicos. Atuei como Aprendiz de Desenvolvimento de Sistemas na Cocal, aplicando conhecimentos em programação, banco de dados, LGPD e segurança da informação em projetos reais da indústria.
 
-Possuo histórico comprovado de excelência técnica, incluindo **2º lugar mundial** no desempenho de robô na First Lego League (FLL) e múltiplas medalhas em olimpíadas do conhecimento. Combino habilidades técnicas sólidas com forte capacidade de liderança, trabalho em equipe e comunicação.
+🥈 **2º lugar mundial** no desempenho de robô na First Lego League (2021) — resultado conquistado liderando equipe em pesquisa, testes e estratégia de competição. Combino habilidades técnicas sólidas com forte capacidade de liderança, trabalho em equipe e comunicação.
 
 ---
 
@@ -99,6 +99,7 @@ SESI "Darcy Zacharias" | 2023 - 2025
 - 🥇 Ouro - Olimpíada Nacional de Eficiência Energética (ONEE)
 - 🥇 Ouro - Redação Proerd
 - 🥉 Bronze - Canguru de Matemática
+- 📝 Segunda Fase - Olimpíada Brasileira de Português
 - 📝 Segunda Fase - Olimpíada Brasileira de Biologia
 
 ### Projetos Sociais e Escolares
@@ -118,24 +119,12 @@ SESI "Darcy Zacharias" | 2023 - 2025
 
 ---
 
-## 💡 Soft Skills
-```javascript
-const mariavitoria = {
-  comunicacao: "excelente",
-  trabalhoEmEquipe: true,
-  lideranca: "comprovada",
-  autodidata: true,
-  proatividade: "alta",
-  organizacao: "metodica"
-};
-```
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaVVieSales&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaVVieSales&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaVVieSales&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaVVieSales&layout=compact&theme=radical&cache_seconds=86400&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MaVVieSales&theme=radical&hide_border=true)
 
 ---
 
