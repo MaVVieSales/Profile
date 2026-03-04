@@ -125,10 +125,6 @@ SESI "Darcy Zacharias" | 2023 - 2025
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaVVieSales&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaVVieSales&layout=compact&theme=radical&cache_seconds=86400&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=MaVVieSales&theme=radical&hide_border=true)
 
 ---
